@@ -190,3 +190,19 @@ void Cwinpro0630Dlg::OnClickedButton1() {
     m_require.SetWindowTextW(req); // 필요 평점 출력
 }
 ```
+
+#### 결과 화면
+
+<img width="1160" alt="output" src="https://github.com/de110/MFC/assets/67581448/7cad08ee-0b34-4fc0-884e-720ffc4b3005">
+
+##### 학점 계산
+
+![combobox1](https://github.com/de110/MFC/assets/67581448/ce7c0771-ea5c-4454-8153-ce2b126ded5e)
+
+![selected_combobox](https://github.com/de110/MFC/assets/67581448/eabb95de-edd4-4ca3-be4f-abd986327bff)
+
+##### 평점 계산
+
+![target_grade](https://github.com/de110/MFC/assets/67581448/40ee9a23-6a19-44f6-82cc-99f63b3bf4b2)
+
+![calculate_target](https://github.com/de110/MFC/assets/67581448/673f500a-00b7-4409-a6bf-51325e0ab0de)
